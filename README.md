@@ -1,6 +1,6 @@
-# Projeto Landing Page Danki Tema
+# Projeto landing page Danki Tema
 
-Este é um projeto de uma página com animações do curso de wordpress da danki code. O projeto foi desenvolvido utilizando HTML, CSS, JavaScript e ScrollReveal.
+Este é um projeto de uma página do curso de wordpress da danki code. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript.
 
 ## Recursos
 
@@ -13,10 +13,9 @@ Este é um projeto de uma página com animações do curso de wordpress da danki
 Este projeto utiliza as seguintes dependências:
 
 - Fontawesome
-- Scrollreveal
 - Google fonts
 
-## Imagem da landing page animada danki tema
+## Imagem da landing page danki tema
 ![Texto Alternativo](https://github.com/marcosoliveira253/projeto-danki/blob/main/img/tela-do-projeto.png))
 
 ## Link da página
