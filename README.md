@@ -16,11 +16,11 @@ Este projeto utiliza as seguintes dependências:
 - Scrollreveal
 - Google fonts
 
-## Imagem da landing page animada
+## Imagem da landing page animada danki tema
 ![Texto Alternativo](https://github.com/marcosoliveira253/projeto-danki/blob/main/img/tela-do-projeto.png))
 
-## Link da página animada
-<a href="https://landingpage-animada.netlify.app/#home" target="_blank">Visite a página</a>
+## Link da página
+<a href="https://marcosoliveira253.github.io/projeto-danki/" target="_blank">Visite a página</a>
 
 
 ## Contribuição
