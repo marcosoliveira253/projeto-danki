@@ -20,7 +20,7 @@ Este projeto utiliza as seguintes dependências:
 ![Texto Alternativo](https://github.com/marcosoliveira253/projeto-danki/blob/main/img/tela-do-projeto.png))
 
 ## Link da página
-<a href="https://marcosoliveira253.github.io/projeto-danki/" target="_blank">Visite a página</a>
+<a href="https://projetodanki.netlify.app/" target="_blank">Visite a página</a>
 
 
 ## Contribuição
