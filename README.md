@@ -17,7 +17,7 @@ Este projeto utiliza as seguintes dependências:
 - Google fonts
 
 ## Imagem da landing page animada
-![Texto Alternativo](https://github.com/marcosoliveira253/landingpage_animada/blob/main/src/images/Tela%20Macbook-Air.png))
+![Texto Alternativo](https://github.com/marcosoliveira253/projeto-danki/blob/main/img/tela-do-projeto.png))
 
 ## Link da página animada
 <a href="https://landingpage-animada.netlify.app/#home" target="_blank">Visite a página</a>
